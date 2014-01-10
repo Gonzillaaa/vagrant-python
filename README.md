@@ -7,3 +7,5 @@ Installs:
 * Node (optionally)
 
 Edit init.pp to select which packages to install
+
+Once installed create virtualenv and use files inside requirements/ as templates for your virtualenv
